@@ -1,6 +1,6 @@
 {
   "name": "qr-vcard3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/cvillanueva94/qr-vcard3",
   "author": "Krlos Villanueva <krlosvilla101994@gmail.com>",
