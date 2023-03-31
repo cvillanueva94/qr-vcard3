@@ -1,4 +1,4 @@
-# vCard QR Code Generator
+# vCard 3.0 QR Code Generator
 
 Este paquete npm te permite generar códigos QR con datos de vCard 3.0 utilizando Node.js.
 
@@ -6,15 +6,16 @@ Este paquete npm te permite generar códigos QR con datos de vCard 3.0 utilizand
 
 Para instalar el paquete, utiliza el siguiente comando:
 
-yarn add vcard-qr-code-generator
-
+```bash
+yarn add qr-vcard3
+```
 
 ## Uso
 
 Para utilizar el paquete, primero importa la función `generateQRCode`:
 
 ```javascript
-const { generateQRCode } = require("vcard-qr-code-generator");
+const { generateQRCode } = require("qr-vcard3");
 Luego, llama a la función generateQRCode con los datos de vCard y las opciones de código QR opcionales:
 
 const vcardData = `BEGIN:VCARD
