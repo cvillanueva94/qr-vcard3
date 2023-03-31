@@ -1,0 +1,12 @@
+{
+  "name": "qr-vcard3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cvillanueva94/qr-vcard3",
+  "author": "Krlos Villanueva <krlosvilla101994@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.5.1",
+    "vcard-parser": "^1.0.0"
+  }
+}
